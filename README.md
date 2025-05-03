@@ -23,5 +23,5 @@ This system provides a comprehensive solution for managing medicines, bills, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/medical_inventory_management.git
+   git clone https://github.com/febilp/medical_inventory_management.git
    cd medical_inventory_management
