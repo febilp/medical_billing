@@ -17,14 +17,14 @@ This system provides a comprehensive solution for managing medicines, bills, and
 - Django
 - DRF (Django Rest Framework)
 - drf-spectacular (for Swagger support)
-- PostgreSQL (or any other database of your choice)
+  
 
 ### Step-by-Step Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/febilp/medical_inventory_management.git
-   cd medical_inventory_management
+   git clone https://github.com/febilp/medical_billing.git
+   cd medical_billing
 
 2. Create a Python virtual environment:
    ```bash
